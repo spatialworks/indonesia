@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# indonesia: Datasets for Use in Designing Surveys in Indonesia <img src="man/figures/indonesia.png" width="200px" align="right" />
+# indonesia: Datasets for Use in Designing Surveys in Indonesia <img src="https://www.cia.gov/library/publications/the-world-factbook/attachments/flags/ID-flag.gif" width="200px" align="right" />
 
 Designing surveys require relevant datasets to be used as basis for
 sample size calculations, sampling design, survey planning/logistics and
@@ -14,9 +14,9 @@ designing surveys in Indonesia.
 ## Installation
 
 You can install the development version of `indonesia` from
-[GitHub](https://github.com/validmeasures/indonesia) with:
+[GitHub](https://github.com/spatialworks/indonesia) with:
 
 ``` r
-if(!require(devtools)) install.packages("devtools")
-install_github("validmeasures/indonesia")
+if(!require(remotes)) install.packages("remotes")
+install_github("spatialworks/indonesia")
 ```
